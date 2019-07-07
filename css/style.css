@@ -1,0 +1,136 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+body{
+	background-size: cover;
+
+}
+.container{
+	width: 1140px;
+	margin: 0 auto;
+	display: block;
+}
+.action{
+	height: 18px;
+	background-color: #ffffff;
+	border-bottom: 1px solid;
+}
+.email{
+	width: 25%;
+    float: left;
+    text-align: right;
+    padding: 0px 10px;
+    
+}
+.number{
+	width: 20%;
+    float: left;
+    padding: 0px 0px 0px 10px;
+    border-left: 1px solid;
+}
+.logo{
+	width: 50%;
+	float: left;
+	
+}
+ul{
+    margin: 0px 0px 0px 300px;
+}
+ul li{
+	l    list-style: none;
+    display: inline;
+    margin-left: 18px;
+}
+header{
+	height: 68px;
+	
+
+}
+.logomain{
+	width: 20%;
+	margin: 15px 80px;
+	float: left;
+
+}
+.menu{
+	width: 50%;
+    float: left;
+}
+nav{
+	height: 68px;
+    list-style: none;
+        margin: 25px;
+}
+nav li{
+	display: inline;
+    margin: 10px;
+}
+.slide{
+	height: 760px;
+	background: url(../img/slide.jpg);
+	/*background-size: cover;*/
+	background-repeat: no-repeat;
+}
+.text{
+	width: 100%
+
+}
+h1{
+	font-size: 50px;
+    text-transform: uppercase;
+    color: #fdce16;
+    margin: 0px 0px 0px 300px;
+}
+h2{
+	font-size: 30px;
+    text-transform: uppercase;
+    color: #ffffff;
+    margin: 0px 0px 0px 480px;
+    padding: 0px;
+}
+h3{
+	font-size: 60px;
+    text-transform: uppercase;
+    color: #ffffff;
+    margin: 0px 0px 0px 400px;
+}
+
+.slide-text{
+	width: 70%;
+
+}
+
+.para{
+	width: 60%;
+	float: left;
+}
+.imga{
+
+}
+p{
+    color: white;
+    text-align: left;
+    font-size: 10px;
+    margin: 0px 0px 0px 180px;
+}
+
+
+.btn{
+	width: 40%;
+	float: left;	
+}
+
+.bta{
+	padding: 12px;
+    background: none;
+    color: white;
+    border-radius: 2px;
+    margin: 0px 0px 0px -67px
+}
+.btb{
+	padding: 14px;
+    background: #fdce16;
+    
+    border: none;
+}
